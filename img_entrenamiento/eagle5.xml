@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagesfix</folder>
+	<filename>eagle5.jpg</filename>
+	<path>C:\Users\sainty y nico\Documents\imagesfix\eagle5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>32</ymin>
+			<xmax>275</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
