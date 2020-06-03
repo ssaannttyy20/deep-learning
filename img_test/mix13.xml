@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagesfix</folder>
+	<filename>mix13.jpg</filename>
+	<path>C:\Users\sainty y nico\Documents\imagesfix\mix13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hawk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>66</ymin>
+			<xmax>282</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

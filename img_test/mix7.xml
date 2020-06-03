@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagesfix</folder>
+	<filename>mix7.jpg</filename>
+	<path>C:\Users\sainty y nico\Documents\imagesfix\mix7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>eagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>66</ymin>
+			<xmax>278</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hawk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>96</ymin>
+			<xmax>126</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

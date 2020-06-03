@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagesfix</folder>
+	<filename>mix19.jpg</filename>
+	<path>C:\Users\sainty y nico\Documents\imagesfix\mix19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hawk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>84</ymin>
+			<xmax>187</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hawk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>140</ymin>
+			<xmax>192</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>
