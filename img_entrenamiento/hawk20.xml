@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagesfix</folder>
+	<filename>hawk20.jpg</filename>
+	<path>C:\Users\sainty y nico\Documents\imagesfix\hawk20.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hawk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>26</ymin>
+			<xmax>232</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

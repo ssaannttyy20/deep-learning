@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagesfix</folder>
+	<filename>hen10.jpg</filename>
+	<path>C:\Users\sainty y nico\Documents\imagesfix\hen10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>89</ymin>
+			<xmax>176</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>173</ymin>
+			<xmax>248</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>
